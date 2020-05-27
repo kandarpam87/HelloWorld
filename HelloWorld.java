@@ -1,4 +1,7 @@
-public static void main(string[] args)
+public class HelloWorld
 {
-	System.io.Print("Hello Java World !!!");
+	public static void main(String[] args)
+	{
+		System.out.print("Hello Java World !!!");
+	}
 }
